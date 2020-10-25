@@ -8,5 +8,5 @@ This repository contains two problems of  Algorithmic Methods of Data Mining.
 ### Problem 2
   In this folder you will find jupyter file in which code added for Algorithms.
   
-##Stamps_HW1_Screenshot_of_Submission.pdf
+## Stamps_HW1_Screenshot_of_Submission.pdf
   Added screenshot of all submission done.
